@@ -1,0 +1,33 @@
+,medio,fecha,titulo,nivel,estado,chars,segundos,url_final,error,texto
+2,Trafico ZMG,29/12/2025,Manifestación contra ciclovía,error,error,0,9.43,https://www.facebook.com/reel/724759587369027,HTTP 400,
+12,Milenio,01/12/2025,"Once años de MiBici, entre la consolidación y los retos viales",error,error,0,2.4,https://www.milenio.com/comunidad/mibici-entre-la-consolidacion-y-los-retos-viales-en-el-amg,HTTP 403,
+14,Telediario,26/11/2025,Cuál es la ruta de la Vía Recreativa Nocturna en Guadalajara en diciembre 2025,error,error,0,2.15,https://www.telediario.mx/comunidad/via-recreactiva-guadalajara-cual-es-la-ruta-sabado-6-diciembre-2025,HTTP 403,
+24,Telediario,24/09/2025,"Ciclovías en Guadalajara; aquí te decimos todas las RUTAS que hay, ¿las usas en tu camino diario?",error,error,0,2.33,https://www.telediario.mx/comunidad/ciclovias-en-guadalajara-donde-hay-y-cuales-son-las-rutas,HTTP 403,
+42,Telediario,27/07/2025,Hasta 15 mil pesos! Así puedes obtener un crédito para una bicicleta en Zapopan,error,error,0,1.8,https://www.telediario.mx/comunidad/credito-para-bicileta-zapopan-como-conseguirlo,HTTP 403,
+48,Jalisco TV,10/07/2025,CASI 80 KILÓMETROS DE CICLOVÍAS DEL AMG HAN RECIBIDO MANTENIMIENTO INTENSIVO,playwright,cloudflare,269,3.54,https://noticias.jaliscotv.com/ciclovias-mantenimiento/,HTTP 526,"Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.
+
+Cloudflare Ray ID:a3b39ffd387d369c•Your IP:Click to reveal34.44.185.74•Performance & security byCloudflare"
+51,Milenio,04/07/2025,Ciclista arrolla a un policía de Guadalajara en pleno centro de la ciudad,error,error,0,2.63,https://www.milenio.com/policia/policia-guadalajara-arrollado-ciclista-centro-historico,HTTP 403,
+53,Milenio,29/06/2025,Realizan rodada nudista por los derechos de los ciclistas en Guadalajara,error,error,0,1.46,https://www.milenio.com/politica/comunidad/guadalajara-celebra-otra-edicion-de-rodada-nudista,HTTP 403,
+54,Telediario,27/06/2025,Calles CERRADAS por World Naked Bike 2025 en Guadalajara; esta será la RUTA,error,error,0,1.7,https://www.telediario.mx/comunidad/calles-cerradas-world-naked-bike-2025-guadalajara-y-ruta,HTTP 403,
+61,Jalisco TV,03/06/2025,SUPERA MIBICI LOS 33 MILLONES DE VIAJES Y ALISTAN RODADA URBANA,playwright,cloudflare,269,2.99,https://noticias.jaliscotv.com/mibici-33-millones-viajes/,HTTP 526,"Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.
+
+Cloudflare Ray ID:a3b3a0ae2a98ebbd•Your IP:Click to reveal34.44.185.74•Performance & security byCloudflare"
+67,Milenio,28/05/2025,Vecinos de Zapopan se oponen a la ciclovía en Paseos del Sol,error,error,0,1.55,https://www.milenio.com/politica/comunidad/vecinos-zapopan-oponen-ciclovia-paseos-sol,HTTP 403,
+69,Telediario,10/05/2025,Dan mantenimiento a ciclovías en Guadalajara tras denuncias ciudadanas,error,error,0,1.71,https://www.telediario.mx/comunidad/ciclovias-de-gudalajara-reciben-mantenimiento-tras-denuncias,HTTP 403,
+71,Azteca Jalisco,29/04/2025,Desde La Redacción | Ciclovía en pésimas condiciones sobre Av. Malecón y Patria,playwright,playwright,156,7.83,https://www.aztecajalisco.com/local/ciclovia-en-pesimas-condiciones-av-malecon-y-patria-en-los-limites-guadalajara-y-tonala/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+78,Azteca Jalisco,20/04/2025,Joven ciclista de 17 años cae sobre una zanja de 5 metros de profundidad en Guadalajara; ¿qué le pasó?,playwright,playwright,156,10.11,https://www.aztecajalisco.com/local/joven-ciclista-17-anos-cae-una-zanja-5-metros-altura-en-av-ahuehuetes-en-guadalajara/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+80,Jalisco TV,14/04/2025,"VÍA RECREACTIVA, LA COSTUMBRE DOMINICAL QUE UNE GENERACIONES",playwright,cloudflare,269,3.59,https://noticias.jaliscotv.com/via-recreactiva-la-costumbre-dominical-que-une-generaciones/,HTTP 526,"Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.
+
+Cloudflare Ray ID:a3b3a184590b5d15•Your IP:Click to reveal34.44.185.74•Performance & security byCloudflare"
+81,Azteca Jalisco,07/04/2025,Desde La Redacción | Postes caídos obstruyen la ciclovía en Periférico y Federalismo,playwright,playwright,156,6.78,https://www.aztecajalisco.com/local/postes-caidos-obstruyen-la-ciclovia-en-periferico-y-federalismo/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+97,Azteca Jalisco,17/02/2025,¿Por la banqueta o por el carril? Así deben circular los ciclistas en caso de no haber ciclovía en Jalisco,playwright,playwright,156,9.3,https://www.aztecajalisco.com/local/cuales-son-los-derechos-y-las-obligaciones-los-ciclistas-en-la-via-publica-en-jalisco/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+108,Milenio,09/01/2025,Conoce cómo suscribirte a Mi Bici Pública y usar el programa de préstamo en Guadalajara; AQUÍ requisitos y PRECIOS,error,error,0,2.37,https://www.milenio.com/politica/comunidad/mi-bici-publica-asi-tramitas-una-suscripcion-en-guadalajara,HTTP 403,

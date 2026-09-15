@@ -1,0 +1,49 @@
+,medio,fecha,titulo,nivel,estado,chars,segundos,url_final,error,texto
+0,Milenio,30/12/2024,BKT Bici Pública suma 16 años transformando la movilidad en México,error,error,0,1.88,https://www.milenio.com/politica/comunidad/cual-es-la-historia-de-bkt-bici-publica-en-mexico,HTTP 403,
+7,Azteca Jalisco,05/11/2024,Desde La Redacción | Ciclovías de Guadalajara: ¿Un peligro constante para ciclistas?,playwright,playwright,156,9.05,https://www.aztecajalisco.com/local/ciclovias-guadalajara-un-peligro-constante-para-ciclistas/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+15,Seminario Laguna,15/10/2024,Los ciclistas optan por tomar la carretera en partes cubiertas por piedras y lodo,error,error,0,2.48,https://semanariolaguna.com/82170,HTTP 404,
+18,Azteca Jalisco,04/10/2024,Desde la Redacción: 11 postes en una ciclovía en Zapopan pone en riesgo a ciclistas,playwright,playwright,156,8.63,https://www.aztecajalisco.com/local/desde-redaccion-11-postes-en-una-ciclovia-zapopan-pone-riesgo-ciclistas/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+34,Milenio,08/09/2024,"La Vía RecreActiva, un espacio inspirado para tener una ciudad más humana",error,error,0,2.12,https://www.milenio.com/politica/comunidad/via-recreactiva-espacio-inspirado-ciudad-humana,HTTP 403,
+35,La Jornada,08/09/2024,"Recuperan espacio público con la Vía RecreActiva"" en Guadalajara",playwright,playwright,2881,16.65,https://www.jornada.com.mx/noticia/2024/09/08/estados/recuperan-el-espacio-publico-con-la-201cvia-recreactiva-en-guadalajara-7812,HTTP 403,"Guadalajara, Jal.,Hace 20 años y basado en un modelo colombiano que por vez primera se instauró en México en la capital del país en la década de los 70s, Guadalajara adoptó la promoción del espacio público para la convivencia, recreación y actividad física los domingos y días festivos cerrando avenidas al tráfico vehicular y permitiendo la recuperación de la ciudad para peatones, corredores y ciclistas a partir del 2004.
+
+Este domingo y luego de totalizar hoy poco más de 31 kilómetros de calles adaptadas para lo que aquí se denominó “Vía RecreActiva”, se realizó una celebración que como es común logró reunir alrededor de 100 mil personas, muchas de ellas además animadas porque como parte del festejo se entregaron de manera gratuita 25 mil tortas ahogadas en el centro de la capital jalisciense.
+
+La vía está certificada de manera internacional con la “Etiqueta Oro”, destacando como una de las más largas en el mundo -después de Bogotá y Ciudad de México- y que reúne a más personas, realizando una celebración que incluyó también rodadas nocturnas, exhibiciones, mesas de diálogo, una carrera 7K, entre otras actividades físicas.
+
+""Un reconocimiento especial a sus fundadores, asociaciones y activistas, pero sobre todo a ustedes, la ciudadanía. Ningún proyecto en el mundo puede tener éxito si no se involucra y se pone por delante a la ciudadanía"", dijo Francisco Ramírez Salcido, alcalde interino de Guadalajara, durante el acto conmemorativo.
+
+Tan solo en Guadalajara en los recientes tres años se añadieron poco más de 5 kilómetros a la vía y se interconectó con las rutas en Zapopan, extendiendo más el recorrido y las rutas para ciclistas, corredores y peatones que gustan salir a disfrutar de la ciudad en un entorno seguro.
+
+También se tuvo la exhibición de un globo aerostático —en colaboración con el Festival internacional del Globo de León, Guanajuato—, un macro taller de baile, una rodada cultural, pinta de murales de arte urbano, así como actividades en espacios como 18 de Marzo, Parque Revolución y Parque San Jacinto.
+
+Andrea Blanco Calderón, coordinadora de Construcción de la Comunidad de Guadalajara, sostuvo que cada semana este espacio se convierte en un punto de reunión en el cual cada domingo los asistentes pueden disfrutar de más de 35 actividades de forma permanente a lo largo de su recorrido.
+
+Para el funcionamiento de la vía colaboran 25 dependencias municipales, estatales e instituciones educativas.
+
+El festejo incluyó la entrega de 25 mil tortas ahogadas en 35 puestos de los vendedores del típico platillo jalisciense instalados sobre Paseo Alcalde, junto a la catedral metropolitana, plaza de armas y el palacio municipal, lo que atrajo a una gran cantidad de ciudadanos, turistas y participantes de la vía, quienes tras realizar largas filas se deleitaron con el birote salado bañado en salsa de tomate y con carnitas de puerco."
+48,Crónica Jalisco,07/07/2024,La Vía RecreActiva de Zapopan ofrece clases gratuitas de música,error,error,0,138.74,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-la_via_recreactiva_de_zapopan_ofrece_clases_gratuitas_de_musica-127593-2024 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f76cc2fbd90>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+54,Milenio,11/06/2024,Transitar por ciclovías del AMG; es ya un conflicto serio entre peatones y ciclistas,error,error,0,1.67,https://www.milenio.com/politica/comunidad/transitar-ciclovias-amg-conflicto-peatones-ciclistas,HTTP 403,
+60,Milenio,16/05/2024,"Cerca de 500 ciclistas se manifiestan en Casa Jalisco, exigen seguridad y mejores ciclovías",error,error,0,1.87,https://www.milenio.com/politica/comunidad/cerca-de-500-ciclistas-se-manifiestan-en-casa-jalisco,HTTP 403,
+62,Milenio,14/05/2024,Ciclistas piden mejorar señalización y respetar espacios para las bicicletas en el AMG,error,error,0,2.2,https://www.milenio.com/politica/comunidad/amg-ciclistas-piden-mejorar-senalizacion-mejorar-cultura-vial,HTTP 403,
+64,Milenio,23/04/2024,Incrementan muertes de ciclistas en Guadalajara; van 8 en 2024,error,error,0,1.77,https://www.milenio.com/videos/estados/incrementan-muertes-ciclistas-guadalajara-8-2024,HTTP 403,
+66,Milenio,20/04/2024,"Andar en bicicleta trae además de beneficios a la salud también a la sociedad, señala experto",error,error,0,1.66,https://www.milenio.com/politica/comunidad/que-beneficios-tiene-andar-en-bicicleta,HTTP 403,
+71,Azteca Jalisco,16/04/2024,VIDEO: Ciclista muere atropellado por camioneta en Enrique Díaz de León,playwright,playwright,156,7.41,https://www.aztecajalisco.com/azteca-noticias/video-camioneta-atropella-ciclista-avenida-enrique-diaz-leon/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+80,Azteca Jalisco,28/02/2024,VIDEO: Ciclista protagoniza fuerte choque con camioneta en Guadalajara,playwright,playwright,156,10.15,https://www.aztecajalisco.com/azteca-noticias/video-ciclista-golpea-camioneta-fuerte-accidente-guadalajara/,HTTP 404,"We and our partners process data for the following purposes:Share My Personal Information
+
+Sigue informándote y mantente al día con los temas más relevantes"
+97,Jalisco TV,17/01/2024,ATIENDEN SOLICITUDES DE LIMPIEZA EN CICLOVÍA DE AV. MALECÓN,playwright,cloudflare,269,3.82,https://noticias.jaliscotv.com/atienden-solicitudes-de-limpieza-en-ciclovia-de-av-malecon/,HTTP 526,"Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.
+
+Cloudflare Ray ID:a3b393769e15c8b1•Your IP:Click to reveal34.44.185.74•Performance & security byCloudflare"
+98,Crónica Jalisco,16/01/2024,"Piden que ayuntamientos limpien basura, escombros y autos estacionados en ciclovía de avenida Malecón",error,error,0,139.98,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-piden_que_ayuntamientos_limpien_basura_escombros_y_autos_estacionados_en_ciclovia_de_avenida_malecon-125029-2024 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f76cb19c910>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+104,Milenio,15/01/2024,Se realizan al menos 28 mil viajes en bicicleta diariamente en el AMG,error,error,0,1.96,https://www.milenio.com/politica/comunidad/tapatios-realizan-28-mil-viajes-bici-diario-amg,HTTP 403,
+106,Milenio,15/01/2024,"Echan abajo plan de parque lineal, reanudan solo obras de ciclovía en avenida Copérnico en Zapopan",error,error,0,1.9,https://www.milenio.com/politica/comunidad/reanudan-obras-ciclovia-avenida-copernico-zapopan,HTTP 403,
+113,Milenio,12/01/2024,"Reanudarán las obras de la ciclovía en Copérnico, Zapopan",error,error,0,2.5,https://www.milenio.com/politica/comunidad/zapopan-reanudaran-las-obras-de-la-ciclovia-en-copernico,HTTP 403,
+120,Milenio,11/01/2024,Bici Blanca asegura que en avenida Copérnico en Zapopan son viables y aportarían seguridad a todos,error,error,0,2.14,https://www.milenio.com/politica/comunidad/ciclovia-copernico-bici-blanca-asegura-obras-viables,HTTP 403,
+123,Milenio,09/01/2024,Vecinos inconformes con ciclovía en Zapopan acuden a instalaciones del CISZ y NO son atendidos por ninguna autoridad,error,error,0,1.56,https://www.milenio.com/politica/comunidad/zapopan-vecinos-inconformes-ciclovia-acuden-cisz,HTTP 403,
+127,Milenio,08/01/2024,Frangie se reunirá con vecinos inconformes en ciclovía de avenida Copérnico en Zapopan,error,error,0,2.21,https://www.milenio.com/politica/comunidad/zapopan-frangie-reunira-vecinos-inconformes-ciclovia,HTTP 403,

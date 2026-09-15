@@ -1,0 +1,237 @@
+,medio,fecha,titulo,nivel,estado,chars,segundos,url_final,error,texto
+1,Reporte indigo,23/12/2022,"Bicicleta Blanca, por una ciudad sin muertes de ciclistas",playwright,playwright,711,3.41,https://www.reporteindigo.com/reporte/bicicleta-blanca-por-una-ciudad-sin-muertes-de-ciclistas/,HTTP 403,"Lo sentimos pero tu petición ha sido bloqueada por razones de seguridad. Esto puede deberse al uso de una VPN o visitas desde países que no están permitidos.
+
+Si consideras que esto es un error, por favor, escríbenos desdeeste formularioindicando tu correo. Gracias.
+
+We are sorry but your request has been blocked. This may be due to using a VPN or visiting from countries that are not allowed.
+
+If you think this is an error, please send us an email fromthis formwith your email address. Thanks.
+
+Lamentamos mas o seu pedido foi bloqueado. Isso pode ser devido ao uso de VPN ou à visita de países não permitidos.
+
+Se você acha que isso é um erro, envie-nos uma mensagem a partirdeste formuláriocom seu e-mail."
+4,Notisistema,06/12/2022,Hombre accidentado por cables colgantes nunca logró operación en el IMSS,playwright,playwright,252,5.0,https://www.notisistema.com/noticias/hombre-accidentado-por-cables-colgantes-nunca-logro-operacion-en-el-imss/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+5,Notisistema,06/12/2022,Empresa de telecomunicaciones se desentiende luego que sus cables provocaron lesiones a ciclista,playwright,playwright,252,4.02,https://www.notisistema.com/noticias/empresa-de-telecomunicaciones-se-desentiende-luego-que-sus-cables-provocaron-lesiones-a-ciclista/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+7,UDGTV,06/12/2022,Limpieza de la ciclovia de Santa Elena,playwright,playwright,113,4.65,https://udgtv.com/radio/limpieza-la-ciclovia-santa-elena/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+16,UDGTV,25/11/2022,"Por abandono y fallas del servicio, MiBici pierde casi la mitad de usuarios en tres años",playwright,playwright,113,4.77,https://udgtv.com/noticias/por-abandono-y-fallas-mibici-pierde-usuarios/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+17,Reporte indigo,24/11/2022,Vulnerabilidad de ciclistas en calles de Guadalajara,playwright,playwright,711,3.34,https://www.reporteindigo.com/reporte/vulnerabilidad-de-ciclistas-en-calles-de-guadalajara-movilidad/,HTTP 403,"Lo sentimos pero tu petición ha sido bloqueada por razones de seguridad. Esto puede deberse al uso de una VPN o visitas desde países que no están permitidos.
+
+Si consideras que esto es un error, por favor, escríbenos desdeeste formularioindicando tu correo. Gracias.
+
+We are sorry but your request has been blocked. This may be due to using a VPN or visiting from countries that are not allowed.
+
+If you think this is an error, please send us an email fromthis formwith your email address. Thanks.
+
+Lamentamos mas o seu pedido foi bloqueado. Isso pode ser devido ao uso de VPN ou à visita de países não permitidos.
+
+Se você acha que isso é um erro, envie-nos uma mensagem a partirdeste formuláriocom seu e-mail."
+39,Milenio,18/10/2022,Ciclovías son necesarias para seguridad de ciclistas; colectivo Bici Blanca a manifestantes,error,error,0,1.95,https://www.milenio.com/politica/comunidad/bici-blanca-ciclovias-necesarias-seguridad-ciclistas,HTTP 403,
+40,Notisistema,17/10/2022,Retomarán protestas contra coclovía de avenida Guadalupe,playwright,playwright,252,4.89,https://www.notisistema.com/noticias/retomaran-protestas-contra-coclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+47,Milenio,04/10/2022,En 2022 aumentan robos y vandalismo a unidades de Mi Bici Pública,error,error,0,1.45,https://www.milenio.com/politica/comunidad/bici-publica-2022-aumentan-robos-vandalismo,HTTP 403,
+48,Lider 919,01/10/2022,Ciclovía en la zona de El Bajío estará terminada en noviembre,error,error,0,4.86,https://lider919.com/ciclovia-en-la-zona-de-el-bajio-estara-terminada-en-noviembre,HTTP 404,
+51,Notisistema,28/09/2022,Posponen hasta enero la construcción de ciclovía de Javier Mina,playwright,playwright,252,5.26,https://www.notisistema.com/noticias/posponen-hasta-enero-la-construccion-de-ciclovia-de-javier-mina/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+55,Lider 919,25/09/2022,"Con rodada nocturna, concluyen este domingo actividades de la Semana de la Movilidad",error,error,0,3.88,https://lider919.com/con-rodada-nocturna-concluyen-este-domingo-actividades-de-la-semana-de-la-movilidad,HTTP 404,
+57,Crónica Jalisco,25/09/2022,Amplían la Vía RecreActiva de Zapopan,error,error,0,140.64,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-amplian_la_via_recreactiva_de_zapopan-117747-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf874edd10>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+61,Lider 919,22/09/2022,Con Mega Rodada y Biciescuela conmemoran el Día Mundial Sin Auto,error,error,0,4.82,https://lider919.com/con-mega-rodada-y-biciescuela-conmemoran-el-dia-mundial-sin-auto,HTTP 404,
+64,Milenio,19/09/2022,En 14 años se han construido más de 250 kilómetros de ciclovía en el AMG,error,error,0,2.2,https://www.milenio.com/politica/comunidad/amg-14-anos-construido-250-kilometros-ciclovia,HTTP 403,
+67,UDGTV,14/09/2022,Tlajomulco cuenta con una de las ciclovías más inseguras de la metrópoli,playwright,playwright,113,4.29,https://udgtv.com/noticias/tlajomulco-cuenta-con-una-de-las-ciclovias-mas-inseguras-de-la-metropoli/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+71,Milenio,30/08/2022,"Dan licitación para renovación de ciclovía en avenida Javier Mina, obras comienzan en septiembre",error,error,0,2.32,https://www.milenio.com/politica/comunidad/licitacion-renovacion-ciclovia-avenida-javier-mina,HTTP 403,
+72,Notisistema,30/08/2022,Primeras obras de ciclovía de Javier Mina serán de la Calzada a Belisario Domínguez,playwright,playwright,252,5.38,https://www.notisistema.com/noticias/primeras-obras-de-ciclovia-de-javier-mina-seran-de-la-calzada-a-belisario-dominguez/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+75,Milenio,27/08/2022,Ciclovía de Javier Mina respetará los cuatro carriles para coches; buscan incentivar el uso de la bicicleta,error,error,0,1.8,https://www.milenio.com/politica/comunidad/ciclovia-javier-mina-respetara-carriles-coches,HTTP 403,
+76,Notisistema,26/08/2022,Habrá ciclovía en Javier Mina sin quitar carriles,playwright,playwright,252,4.89,https://www.notisistema.com/noticias/habra-ciclovia-en-javier-mina-sin-quitar-carriles/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+78,UDGTV,26/08/2022,La ciclovía en Javier Mina incluye retirar las telarañas de cables,playwright,playwright,113,5.0,https://udgtv.com/noticias/ciclovia-javier-mina-incluye-retirar-telaranas-cables/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+82,Notisistema,23/08/2022,Descartan construir ciclovía por Enrique Díaz de León,playwright,playwright,252,5.13,https://www.notisistema.com/noticias/descartan-construir-ciclovia-por-enrique-diaz-de-leon/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+85,Notisistema,18/08/2022,Confinamiento de un carril de Av. Hidalgo casi llega a Chapultepec,playwright,playwright,252,5.6,https://www.notisistema.com/noticias/confinamiento-de-un-carril-de-av-hidalgo-casi-llega-a-chapultepec/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+88,Notisistema,18/08/2022,Critican taxistas funcionamiento del carril BusBici,playwright,playwright,252,4.41,https://www.notisistema.com/noticias/critican-taxistas-funcionamiento-del-carril-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+89,Notisistema,17/08/2022,Instalación de segregadores en Av. Hidalgo terminará la próxima semana,playwright,playwright,252,4.66,https://www.notisistema.com/noticias/instalacion-de-segregadores-en-av-hidalgo-terminara-la-proxima-semana/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+90,Notisistema,17/08/2022,Ni los ciclistas conocen el funcionamiento del carril BusBici,playwright,playwright,252,4.87,https://www.notisistema.com/noticias/ni-los-ciclistas-conocen-el-funcionamiento-del-carril-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+94,UDGTV,16/08/2022,"Taxistas, vehículos de carga y descarga no podrán utilizar carril de BiciBus",playwright,playwright,113,4.97,https://udgtv.com/noticias/taxistas-vehiculos-de-carga-descarga-no-utilizar-carril-bicibus/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+95,Notisistema,16/08/2022,Multas por invadir carril BusBici serán de 18 mil pesos,playwright,playwright,252,3.33,https://www.notisistema.com/noticias/multas-por-invadir-carril-busbici-seran-de-18-mil-pesos/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+97,Milenio,16/08/2022,"Obras públicas son para beneficiar al usuario del transporte público antes que a particulares, asegura Lemus",error,error,0,2.04,https://www.milenio.com/politica/comunidad/obras-beneficio-usuarios-transporte-publico-lemus,HTTP 403,
+98,Notisistema,15/08/2022,Surgen dudas sobre uso del carril BusBici,playwright,playwright,252,5.07,https://www.notisistema.com/noticias/surgen-dudas-sobre-uso-del-carril-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+99,Notisistema,15/08/2022,Instalan segregadores de carril BusBici en Av. Hidalgo,playwright,playwright,252,3.43,https://www.notisistema.com/noticias/instalan-segregadores-de-carril-busbici-en-av-hidalgo/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+101,Notisistema,15/08/2022,Buscan con video resolver dudas sobre carril BusBici,playwright,playwright,252,5.24,https://www.notisistema.com/noticias/buscan-con-video-resolver-dudas-sobre-carril-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+104,Milenio,10/08/2022,Lluvias en Guadalajara han retrasado operación del sistema Bus Bici,error,error,0,1.84,https://www.milenio.com/politica/comunidad/bus-bici-guadalajara-lluvias-retrasado-operacion-sistema,HTTP 403,
+105,Milenio,10/08/2022,Lluvias en Guadalajara han retrasado operación del sistema Bus Bici,error,error,0,1.38,https://www.milenio.com/politica/comunidad/bus-bici-guadalajara-lluvias-retrasado-operacion-sistema,HTTP 403,
+106,Notisistema,05/08/2022,Genera caos el balizamiento del carril BusBici por avenida Hidalgo,playwright,playwright,252,4.64,https://www.notisistema.com/noticias/genera-caos-el-balizamiento-del-carril-busbici-por-avenida-hidalgo/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+107,Lider 919,04/08/2022,"Destacan beneficios del carril exclusivo «BusBici», en avenida Hidalgo; tiempos de traslado se reducirán hasta en un 70%",error,error,0,3.68,https://lider919.com/destacan-beneficios-del-carril-exclusivo-busbici-en-avenida-hidalgo-tiempos-de-traslado-se-reduciran-hasta-en-un-70,HTTP 404,
+112,Milenio,01/08/2022,"Proyecto de Bus Bici ya se había planteado con antelación, asegura integrante de Bici Blanca Gdl",error,error,0,2.12,https://www.milenio.com/politica/comunidad/bus-bici-planteo-antelacion-asegura-integrante-bici-blanca,HTTP 403,
+113,Crónica Jalisco,31/07/2022,"En agosto entrará en vigor carril exclusivo bus-bici exclusivo, a lo largo de 3.7 kilómetros, de López Mateos al centro",error,error,0,138.49,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-en_agosto_entrara_en_vigor_carril_exclusivo_bus_bici_exclusivo_a_lo_largo_de_37_kilometros_de_lopez_mateos_al_centro-116834-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf888e2d50>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+119,Notisistema,26/07/2022,Afirman que propusieron carril BusBici en Guadalupe y lo rechazaron,playwright,playwright,252,4.11,https://www.notisistema.com/noticias/afirman-que-propusieron-carril-busbici-en-guadalupe-y-lo-rechazaron/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+120,Notisistema,26/07/2022,Acusan falta de estudios en el proyecto BusBici,playwright,playwright,252,3.97,https://www.notisistema.com/noticias/acusan-falta-de-estudios-en-el-proyecto-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+125,Milenio,22/07/2022,Avanza proyecto de 'BusBici' por avenida Hidalgo en Guadalajara,error,error,0,1.73,https://www.milenio.com/politica/comunidad/guadalajara-avanza-proyecto-busbici-avenida-hidalgo,HTTP 403,
+126,Notisistema,22/07/2022,Conductores de camiones consideran difícil maniobrar con carril bicibus de Hidalgo,playwright,playwright,252,5.54,https://www.notisistema.com/noticias/conductores-de-camiones-consideran-dificil-maniobrar-con-carril-bicibus-de-hidalgo/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+127,Notisistema,22/07/2022,Automovilistas que circulan por avenida Hidalgo opinan sobre el carril confinado del Bici-Bus,playwright,playwright,252,5.83,https://www.notisistema.com/noticias/automovilistas-que-circulan-por-avenida-hidalgo-opinan-sobre-el-carril-confinado-del-bici-bus/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+128,Notisistema,18/07/2022,Continúa el proyecto del BusBici por avenida Hidalgo,playwright,playwright,252,4.56,https://www.notisistema.com/noticias/continua-el-proyecto-del-busbici-por-avenida-hidalgo/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+130,Quadratin,17/07/2022,Aumenta el uso de bicicletas públicas en la AMG más de 11 viajes diarios,playwright,playwright,711,3.43,https://www.debate.com.mx/guadalajara/Aumenta-el-uso-de-bicicletas-publicas-en-zona-de-Guadalajara-mas-de-11-mil-viajes-diarios-20220717-0252.html,HTTP 403,"Lo sentimos pero tu petición ha sido bloqueada por razones de seguridad. Esto puede deberse al uso de una VPN o visitas desde países que no están permitidos.
+
+Si consideras que esto es un error, por favor, escríbenos desdeeste formularioindicando tu correo. Gracias.
+
+We are sorry but your request has been blocked. This may be due to using a VPN or visiting from countries that are not allowed.
+
+If you think this is an error, please send us an email fromthis formwith your email address. Thanks.
+
+Lamentamos mas o seu pedido foi bloqueado. Isso pode ser devido ao uso de VPN ou à visita de países não permitidos.
+
+Se você acha que isso é um erro, envie-nos uma mensagem a partirdeste formuláriocom seu e-mail."
+131,Telediario,14/07/2022,Ciclistas reconocen avances en infraestructura del AMG pero solicitan mayor seguridad en movilidad,error,error,0,1.85,https://www.telediario.mx/comunidad/ciclistas-reconocen-avances-en-infraestructura-del-amg,HTTP 403,
+132,Milenio,13/07/2022,Ciclistas admiten la falta de fortalecimiento en la movilidad multimodal en el AMG,error,error,0,1.67,https://www.milenio.com/politica/comunidad/amg-ciclistas-admiten-falta-fortalecimiento-movilidad,HTTP 403,
+138,Seminario laguna,11/07/2022,TIRÁN ÁRBOLES PARA LA CONSTRUCCIÓN DE LA CICLOVÍA EN JOCOTEPEC,error,error,0,2.9,https://semanariolaguna.com/67931,HTTP 404,
+139,Notisistema,08/07/2022,A finales de julio se segregará un carril de Hidalgo para Busbici,playwright,playwright,252,5.39,https://www.notisistema.com/noticias/a-finales-de-julio-se-segregara-un-carril-de-hidalgo-para-busbici/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+141,Notisistema,28/06/2022,Construirán parvial-ciclovía en las avenida Juárez e Hidalgo,playwright,playwright,252,5.23,https://www.notisistema.com/noticias/construiran-parvial-ciclovia-en-las-avenida-juarez-e-hidalgo/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+150,Lider 919,06/06/2022,Usuarios de Mi Bici denuncian que la calidad del servicio «va en picada»,error,error,0,4.27,https://lider919.com/usuarios-de-mi-bici-denuncian-que-la-calidad-del-servicio-va-en-picada,HTTP 404,
+156,Lider 919,03/06/2022,Recomendaciones de la Policía vial para ciclistas,error,error,0,4.25,https://lider919.com/recomendaciones-de-la-policia-vial-para-ciclistas,HTTP 404,
+158,Crónica Jalisco,02/06/2022,"Ciclovía de avenida Guadalupe debe mantenerse en las condiciones en que está, defienden colectivos ciclistas",error,error,0,139.95,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-ciclovia_de_avenida_guadalupe_debe_mantenerse_en_las_condiciones_en_que_esta_defienden_colectivos_ciclistas-115769-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf888e3ed0>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+160,UDGTV,31/05/2022,"Incluso por la vía legal, vecinos de Avenida Guadalupe insistirán para modificar ciclovía",playwright,playwright,113,4.11,https://udgtv.com/noticias/incluso-via-legal-vecinos-avenida-guadalupe-insistiran-modificar-ciclovia/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+162,Crónica Jalisco,31/05/2022,Colonos de Av. Guadalupe señalan que 86 mil personas circulan por esa vía al día y apenas 511 son ciclistas,error,error,0,138.44,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-colonos_de_av_guadalupe_senalan_que_86_mil_personas_circulan_por_esa_via_al_dia_y_apenas_511_son_ciclistas-115729-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf7ebf9590>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+163,Notisistema,27/05/2022,Provoca confusión tramo de ciclovía en avenida Guadalupe,playwright,playwright,252,5.05,https://www.notisistema.com/noticias/provoca-confusion-tramo-de-ciclovia-en-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+166,Milenio,24/05/2022,Ciclistas ven riesgo al pasar por avenida Adolf Horn debido a las obras,error,error,0,2.09,https://www.milenio.com/policia/avenida-adolf-horn-ciclistas-afectados-obras-via,HTTP 403,
+167,Reporte diario,19/05/2022,Dejan Sin Ciclovía La Calle Niza Ciclistas,playwright,playwright,585,4.95,https://www.reportediario.com.mx/noticias/puerto-vallarta/dejan-sin-ciclovia-la-calle-niza-ciclistas,HTTP 403,"- Ciclistas exigen instalen los señalamientos para evitar accidentes
+
+Luego de la pavimentación de la calle Niza, la vialidad quedó sin ciclovia, lo cual expone a los ciclistas que circulan por la zona.
+
+La obra de pavimentación, la cual los vecinos reconocen que ha quedado ""muy bien"", carece de la ciclovia, a pesar de que por la zona circulan diariamente varias personas que utilizan este medio de transporte.
+
+""Pedimos a las autoridades correspondientes que instalen la ciclovía, no queremos correr peligro al circular por el lugar"", dijo uno de los ciclistas al pasar por la zona."
+168,Notisistema,19/05/2022,En descuido algunos tramos de la ciclovía de avenida Juan Palomar,playwright,playwright,252,5.36,https://www.notisistema.com/noticias/en-descuido-algunos-tramos-de-la-ciclovia-de-avenida-juan-palomar/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+169,Lider 919,05/05/2022,Vecinos de la Zona Guadalupe Poniente revisarán los datos del uso de la ciclovía,error,error,0,5.0,https://lider919.com/vecinos-de-la-zona-guadalupe-poniente-revisaran-los-datos-del-uso-de-la-ciclovia,HTTP 404,
+172,Notisistema,04/05/2022,De poco sirvió la reunión entre vecinos de avenida Guadalupe y Alcalde de Zapopan,playwright,playwright,252,5.38,https://www.notisistema.com/noticias/de-poco-sirvio-la-reunion-entre-vecinos-de-avenida-guadalupe-y-alcalde-de-zapopan/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+179,Crónica Jalisco,03/05/2022,Agradecen grupos ciclistas que Ayuntamiento zapopano mantenga ciclovía de Av. Guadalupe sin cambios,error,error,0,138.8,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-agradecen_grupos_ciclistas_que_ayuntamiento_de_zapopan_mantenga_ciclovia_de_avenida_guadalupe_sin_cambios-115177-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf87776e90>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+180,Lider 919,03/05/2022,Vecinos de la ciclovía de Guadalupe piden al alcalde que les dé la cara,error,error,0,4.37,https://lider919.com/vecinos-de-la-ciclovia-de-guadalupe-piden-al-alcalde-que-les-de-la-cara,HTTP 404,
+181,Lider 919,03/05/2022,Colectivos celebraron que ayuntamiento descarte modificaciones a la zona de la ciclovía de Guadalupe,error,error,0,3.7,https://lider919.com/colectivos-celebraron-que-ayuntamiento-descarte-modificaciones-a-la-zona-de-la-ciclovia-de-guadalupe,HTTP 404,
+182,Milenio,03/05/2022,"Frangie no modificará la ciclovía en Zapopan, buscará otras alternativas",error,error,0,1.76,https://www.milenio.com/politica/comunidad/zapopan-frangie-modificara-ciclovia-buscara-alternativas,HTTP 403,
+185,Notisistema,03/05/2022,Instalan mantas en desacuerdo con ciclovía de avenida Guadalupe,playwright,playwright,252,4.96,https://www.notisistema.com/noticias/instalan-mantas-en-desacuerdo-con-ciclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+186,Notisistema,03/05/2022,Eran inviables los cambios que sugerían vecinos a la ciclovía de avenida Guadalupe,playwright,playwright,252,4.65,https://www.notisistema.com/noticias/eran-inviables-los-cambios-que-sugerian-vecinos-a-la-ciclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+187,Notisistema,03/05/2022,Frangie sí sostendrá reunión con vecinos para revisar tema de la ciclovía,playwright,playwright,252,4.37,https://www.notisistema.com/noticias/frangie-si-sostendra-reunion-con-vecinos-manana-para-revisar-tema-de-la-ciclovia/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+188,Notisistema,03/05/2022,Decepciona a vecinos la decisión de mantener sin cambios la ciclovía de avenida Guadalupe,playwright,playwright,252,5.46,https://www.notisistema.com/noticias/decepciona-a-vecinos-la-decision-de-mantener-sin-cambios-la-ciclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+190,Notisistema,03/05/2022,Con ciclovía de avenida Guadalupe bajaron 80% los accidentes: Zapopan,playwright,playwright,252,5.34,https://www.notisistema.com/noticias/con-ciclovia-de-avenida-guadalupe-bajaron-80-los-accidentes-zapopan/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+193,Notisistema,29/04/2022,Sin acuerdos sobre posibles cambios a ciclovía de avenida Guadalupe,playwright,playwright,252,5.21,https://www.notisistema.com/noticias/sin-acuerdos-sobre-posibles-cambios-a-ciclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+194,Milenio,28/04/2022,"Amigos y colectivos rinden homenaje al 'Cheto', ciclista atropellado por el transporte público",error,error,0,1.61,https://www.milenio.com/politica/comunidad/gdl-amigos-colectivos-rinden-homenaje-cheto-ciclista-atropellado,HTTP 403,
+196,Lider 919,28/04/2022,"Colectivos ciclistas piden a Zapopan, no ceder en modificación de ciclovía de avenida Guadalupe",error,error,0,4.32,https://lider919.com/colectivos-ciclistas-piden-a-zapopan-no-ceder-en-modificacion-de-ciclovia-de-avenida-guadalupe,HTTP 404,
+198,Lider 919,21/04/2022,Pide Morena ampliar Mi Bici al oriente de la ciudad,error,error,0,4.84,https://lider919.com/pide-morena-ampliar-mi-bici-al-oriente-de-la-ciudad,HTTP 404,
+202,Mural,13/04/2022,Piden usuarios maás puntos mi bici,error,error,0,13.79,https://www.youtube.com/watch?v=unDYEurWyK0&t=24s,MissingSchema: Invalid URL '': No scheme supplied. Perhaps you meant https://?,
+205,Notisistema,11/04/2022,Afirman que ciclovía de avenida Guadalupe es demasiado ancha,playwright,playwright,252,5.39,https://www.notisistema.com/noticias/afirman-que-ciclovia-de-avenida-guadalupe-es-demasiado-ancha/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+206,Lider 919,11/04/2022,Se queda la ciclovia de Av. Guadalupe: Juan José Frangie,error,error,0,4.58,https://lider919.com/se-queda-la-ciclovia-de-av-guadalupe-juan-jose-frangie,HTTP 404,
+208,Milenio,09/04/2022,Piden habitantes de Zapopan cerrar ciclovía de avenida Guadalupe,error,error,0,2.41,https://www.milenio.com/politica/comunidad/zapopan-habitantes-piden-cerrar-ciclovia-avenida-guadalupe,HTTP 403,
+214,Notisistema,08/04/2022,Vecinos de avenida Guadalupe cancelan manifestación por ciclovía,playwright,playwright,252,4.88,https://www.notisistema.com/noticias/vecinos-de-avenida-guadalupe-cancelan-manifestacion-por-ciclovia/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+217,Notisistema,29/03/2022,Proponen construir en banqueta la ciclovía de avenida Javier Mina,playwright,playwright,252,4.18,https://www.notisistema.com/noticias/proponen-construir-en-banqueta-la-ciclovia-de-avenida-javier-mina/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+219,Notisistema,28/03/2022,Opositores a ciclovía de Javier Mina presentarán queja ante CEDHJ,playwright,playwright,252,5.24,https://www.notisistema.com/noticias/opositores-a-ciclovia-de-javier-mina-presentaran-queja-ante-cedhj/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+220,Notisistema,28/03/2022,Inconformes con ciclovía de avenida Guadalupe acuden a la CEDHJ,playwright,playwright,252,4.82,https://www.notisistema.com/noticias/inconformes-con-ciclovia-de-avenida-guadalupe-acuden-a-la-cedhj/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+222,Notisistema,25/03/2022,Automovilistas rechazan ciclovía de avenida Javier Mina,playwright,playwright,252,4.86,https://www.notisistema.com/noticias/automovilistas-rechazan-ciclovia-de-avenida-javier-mina/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+223,Lider 919,22/03/2022,"Guadalajara lanza programa Bici Escuela, para enseñar a andar en bici",error,error,0,5.06,https://lider919.com/guadalajara-lanza-programa-bici-escuela-para-ensenar-a-andar-en-bici,HTTP 404,
+224,Notisistema,22/03/2022,Los transportistas también se quejan de las ciclovías,playwright,playwright,252,4.29,https://www.notisistema.com/noticias/los-transportistas-tambien-se-quejan-de-las-ciclovias/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+228,Notisistema,16/03/2022,Que respeten el sentido de la calle piden vecinos a usuarios de la ciclovía de avenida Guadalupe,playwright,playwright,252,5.15,https://www.notisistema.com/noticias/que-respeten-el-sentido-de-la-calle-piden-vecinos-a-usuarios-de-la-ciclovia-de-avenida-guadalupe/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+230,Cronica Jalisco,15/03/2022,Habrá ciclovía en la avenida Javier Mina y carril bus bici en avenida Hidalgo,error,error,0,139.06,chrome-error://chromewebdata/,"ConnectTimeout: HTTPSConnectionPool(host='www.cronicajalisco.com', port=443): Max retries exceeded with url: /notas-habra_ciclovia_en_la_avenida_javier_mina_y_carril_bus_bici_en_avenida_hidalgo-114139-2022 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7baf87776210>, 'Connection to www.cronicajalisco.com timed out. (connect timeout=5)'))",
+232,Notisistema,14/03/2022,"Ciclovía de avenida Guadalupe, una de las que más tráfico genera",playwright,playwright,252,3.97,https://www.notisistema.com/noticias/ciclovia-de-avenida-guadalupe-una-de-las-que-mas-trafico-genera/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+235,Notisistema,03/03/2022,Inauguran escuela para enseñar a niños a ser ciclistas,playwright,playwright,252,5.52,https://www.notisistema.com/noticias/inauguran-escuela-para-ensenar-a-ninos-a-ser-ciclistas/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+245,UDGTV,06/02/2022,Estudios avalan ampliación de Vía RecreActiva que conectará a Guadalajara y Zapopan,playwright,playwright,113,5.74,https://udgtv.com/noticias/estudios-avalan-ampliacion-via-recreactiva-conectara-guadalajara-zapopan/,HTTP 404,No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada.
+250,Notisistema,28/01/2022,Extienden cinco kilómetro la Vía Recreactiva en Guadalajara,playwright,playwright,252,5.64,https://www.notisistema.com/noticias/extienden-cinco-kilometro-la-via-recreactiva-en-guadalajara/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+251,Lider 919,28/01/2022,Colectivos reportan discrepancias en datos del Mapa de Siniestralidad,error,error,0,4.84,https://lider919.com/colectivos-reportan-discrepancias-en-datos-del-mapa-de-siniestralidad,HTTP 404,
+252,Notisistema,28/01/2022,Encuentran riesgos en ciclovía del Periférico,playwright,playwright,252,5.89,https://www.notisistema.com/noticias/encuentran-riesgos-en-ciclovia-del-periferico/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+253,Notisistema,28/01/2022,Poco funcional la ciclovía que se construyó en Periférico afirma experto,playwright,playwright,252,4.44,https://www.notisistema.com/noticias/poco-funcional-la-ciclovia-que-se-construyo-en-periferico-afirma-experto/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+254,Milenio,27/01/2022,Jalisco cerró el 2021 con 15 muertes de ciclistas,error,error,0,1.82,https://www.milenio.com/politica/comunidad/jalisco-2015-82-personas-murieron-atropelladas-bicicleta,HTTP 403,
+259,Notisistema,19/01/2022,Vecinos de Analco se quejan de las protecciones de la ciclovía,playwright,playwright,252,4.94,https://www.notisistema.com/noticias/vecinos-de-analco-se-quedan-de-las-protecciones-de-la-ciclovia/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+260,Notisistema,14/01/2022,Utilizan ciclovía de avenida México para caminar,playwright,playwright,252,5.12,https://www.notisistema.com/noticias/utilizan-ciclovia-de-avenida-mexico-para-caminar/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+263,Notisistema,06/01/2022,"Ciclovía en Javier Mina  Juárez y Vallarta, aún no es definitiva, advierte alcalde tapatío",playwright,playwright,252,4.12,https://www.notisistema.com/noticias/ciclovia-en-javier-mina-juarez-y-vallarta-aun-no-es-definitiva-advierte-alcalde-tapatio/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+264,Notisistema,06/01/2022,"Vecinos demandan atender la ciclovía en avenida Malecón, acusan está abandonada",playwright,playwright,252,6.13,https://www.notisistema.com/noticias/vecinos-demandan-atender-la-ciclovia-en-avenida-malecon-acusan-esta-abandonada/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
+265,Notisistema,05/01/2022,Guadalajara busca instalar siete nuevas ciclovías este año,playwright,playwright,252,4.8,https://www.notisistema.com/noticias/guadalajara-busca-instalar-siete-nuevas-ciclovias-este-ano/,HTTP 404,"Derechos Reservados - Notisistema 2018 |Defensoría de Audiencia|Aviso de Privacidad
+
+Notisistema utiliza cookies para ofrecerte una mejor experiencia de navegación y entrega de publicidad. Al navegar en nuestro sitio aceptas las cookies que utilizamos."
