@@ -5,8 +5,8 @@ import pandas as pd
 
 # Paths
 ROOT_DIR = Path(__file__).resolve().parent
-RAW_PATH = ROOT_DIR / "data" / "raw" / "facebook2.json"      # .json (array) or .jsonl/.ndjson
-CLEAN_PATH = ROOT_DIR / "data" / "clean" / "facebook2.csv"
+RAW_PATH = ROOT_DIR / "data" / "raw" / "facebook_3months.json"      # .json (array) or .jsonl/.ndjson
+CLEAN_PATH = ROOT_DIR / "data" / "clean" / "facebook_3months.csv"
 
 # Column mapping: JSON path -> clean column name.
 # Paths use "/" between keys and numeric segments to index into lists,
