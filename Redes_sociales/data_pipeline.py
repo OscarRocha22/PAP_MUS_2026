@@ -14,7 +14,6 @@ CLEAN_PATH = ROOT_DIR / "data" / "clean" / "facebook_3months.csv"
 MAPPING_COLS = {
     "url": "url",
     "user/name": "author_name",
-    "topComments/1/author/gender": "author_gender",
     "attachments/0/photo_image/uri": "photo_url",
     "text": "text",
     "time": "time",
@@ -29,6 +28,9 @@ MAPPING_COLS = {
     "topComments/0/author/name": "top_comment_name",
     "topComments/0/author/gender": "top_comment_gender",
     "topComments/0/text": "top_comment_text",
+    "topComments/1/author/name": "top2_comment_name",
+    "topComments/1/author/gender": "top2_comment_gender",
+    "topComments/1/text": "top2_comment_text",
 }
 
 # The scraper omits reaction keys when the count is 0, so absent = 0.
